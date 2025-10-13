@@ -1,3 +1,4 @@
+from relation import forget_person, average_age, list_persons
 """An example of how to represent a group of acquaintances in Python."""
 
 # Your code to go here...
@@ -36,3 +37,7 @@ my_group = {
 # Access example
 print(f"Jill's age: {my_group['members'][0]['age']}")
 print(f"Jill's friends: {my_group['members'][3]['connections']}")
+print(f"Average age in the group: {average_age(my_group)}")
+# print(f"Press to add a new person: ", add_person)
+print(f"List of persons in the group: {list_persons(my_group)}")
+# print(f"Press to forget a person: ", forget_person)
