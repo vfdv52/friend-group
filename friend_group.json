@@ -1,0 +1,51 @@
+{
+    "members": [
+        {
+            "age": 26,
+            "connections": {
+                "friend": [
+                    "Zalika"
+                ],
+                "partner": [
+                    "John"
+                ]
+            },
+            "job": "biologist",
+            "name": "Jill"
+        },
+        {
+            "age": 28,
+            "connections": {
+                "friend": [
+                    "Jill"
+                ]
+            },
+            "job": "Designer",
+            "name": "Zalika"
+        },
+        {
+            "age": 27,
+            "connections": {
+                "partner": [
+                    "Jill"
+                ]
+            },
+            "job": "Writer",
+            "name": "John"
+        },
+        {
+            "age": 34,
+            "connections": {
+                "cousin": [
+                    "John"
+                ],
+                "landlord": [
+                    "Zalika"
+                ]
+            },
+            "job": "Chef",
+            "name": "Nash"
+        }
+    ],
+    "name": "vfdv52-Gumanji530"
+}
